@@ -125,7 +125,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="empty-state">
                     <i class="fas fa-tasks"></i>
                     <p>No tasks found</p>
-                    <small>Try changing your filters or add a new task</small>
+                    <small>Try changing your filters or add a new task</small><br><br><br>
+                    <p>Made by Num Codes</p>
                 </div>
             `;
             return;

@@ -1,7 +1,7 @@
 {
   "name": "Prodigy - Task Manager",
   "short_name": "Prodigy",
-  "start_url": "./index.html",
+  "start_url": "https://prodigy-chi.vercel.app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
