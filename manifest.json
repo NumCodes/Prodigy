@@ -4,7 +4,7 @@
   "start_url": "https://prodigy-chi.vercel.app/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4CAF50",
+  "theme_color": "#4a6fa5",
   "orientation": "portrait",
   "icons": [
     {
